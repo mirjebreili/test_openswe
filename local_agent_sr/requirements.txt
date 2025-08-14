@@ -1,0 +1,8 @@
+ollama
+pypdf
+PyYAML
+pandas
+openpyxl
+typer
+pydantic
+langgraph
